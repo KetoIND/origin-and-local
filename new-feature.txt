@@ -1,1 +1,3 @@
 2.translator plugin
+1.translator plugin
+>>>>>>> conflict-branch
