@@ -1,1 +1,1 @@
-translator plugin
+1.translator plugin
